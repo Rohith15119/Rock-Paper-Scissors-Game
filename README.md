@@ -190,7 +190,7 @@ src/
 
 ---
 
-##⚡ Performance & Best Practices
+## ⚡ Performance & Best Practices
 
 ✅ Memoized handlers using useCallback
 
